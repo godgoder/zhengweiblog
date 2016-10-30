@@ -1,0 +1,17 @@
+{
+  "name": "201608blog",
+  "homepage": "https://github.com/zhufengnodejs/201608blog",
+  "authors": [
+    "godgoder <670062599@qq.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
